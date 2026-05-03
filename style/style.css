@@ -287,8 +287,7 @@ canvas {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    /* left: 49%; */
-    left: 47%;
+    left: 49%;
   }
 }
 
