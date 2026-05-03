@@ -20,7 +20,6 @@ const fetchData = () => {
               link.rel = 'stylesheet'
               link.href = font.path
               document.head.appendChild(link)
-              //设置body字体
               document.body.style.fontFamily = font.name
             })
           } else if (customData === "music") {
@@ -323,6 +322,14 @@ const animationTimeline = () => {
     tl.restart()
 
   })
+  // Nút xem lại dạng floating (luôn hiển thị)
+  const replayFloatingButton = document.getElementById('replayFloatingButton')
+  if (replayFloatingButton) {
+    replayFloatingButton.addEventListener('click', () => {
+      // ưu tiên dùng cùng một cơ chế replay sẵn có
+      replyBtn?.click()
+    })
+  }
 }
 
 // Run fetch and animation in sequence

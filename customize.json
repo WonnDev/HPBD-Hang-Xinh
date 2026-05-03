@@ -1,31 +1,31 @@
 {
-  "greeting": "你好啊",
-  "name": "XX",
-  "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
-  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
-  "imagePath": "img/lydia2.png",
-  "text1": "今天是你的生日啊!!! :D",
-  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
-  "sendButtonLabel": "发送",
-  "text2": "我想给你一个惊喜",
-  "text3": "我认真的想了很久",
-  "text4": "我认识到，我想要做一些",
-  "text4Adjective": "特殊的事情",
-  "text5Entry": "因为，",
-  "text5Content": "你对于我来说，很特殊",
+  "greeting": "Hí Cục Vàng cụa tớ!!!!!",
+  "name": "Hằng Xinh",
+  "greetingText": "Tớ rất vui vì đã được gặp bạn, người xinh đẹp nhất, trong những năm tháng tươi đẹp nhất của cuộc đời tớ",
+  "wishText": "Mong rằng vẻ đẹp của bạn sẽ mãi trường tồn, như những bông hoa nở rộ năm này qua năm khác. Mong rằng mái tóc của bạn sẽ không bao giờ phai màu, và mong bạn luôn khoẻ mạnh, hạnh phúc。 LOVE YOU <3",
+  "text1": "Hôm nay là sinh nhật của bạn!!! 🥰",
+  "textInChatBox": "Chúc bạn nhỏ của tớ sinh nhật vui vẻ và thật nhiều hạnh phúc khi bên cạnh tớ...",
+  "sendButtonLabel": "♥️",
+  "text2": "Tớ muốn dành tặng bạn một bất ngờ",
+  "text3": "Tớ đã suy nghĩ rất lâu",
+  "text4": "Tớ nhận ra rằng tớ muốn làm một điều gì đó thật",
+  "text4Adjective": "đặc biệt",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "bạn này đối với tớ, rất đặc biệt",
   "smiley": ":)",
-  "bigTextPart1": "所",
-  "bigTextPart2": "以",
-  "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "bigTextPart1": "Vì",
+  "bigTextPart2": "vậy nên",
+  "wishHeading": "Happy Birthday!!!",
+  "outroText": "Tớ hy vọng bạn thích món quà nhỏ này!",
+  "replayText": "Nếu bạn nhỏ thích, có thể xem lại lần nữa nhé! <3",
   "outroSmiley": ":)",
   "music": "./music/bgMusic.mp3",
+  "imagePath": "img/beauty_HX.jpeg",
   "fonts": [
     {
-      "name": "Ma Shan Zheng",
-      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
-    }
+      "name": "LXGW WenKai",
+      "path":"./fonts/LXGWWenKai-Regular.ttf"
+    } 
   ]
 }
 
